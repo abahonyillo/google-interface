@@ -1,0 +1,31 @@
+* {
+margin: 10px;
+padding: 10px;
+}
+body{
+    text-align: center;
+}
+img{
+    width: 30%;
+    height: auto;
+}
+input{
+width: 40wh;
+height: 9vh;
+border-radius: 45px 44px 44px 44px;
+font-size: 34px;
+}
+button {
+margin: 11px;
+height: 5vh;
+background: #fff;
+border: #eee 1px solid;
+text-align: center;
+border-radius: 11px 0px 0px 0px;
+}
+a {
+color: blue;
+}
+googleHome{
+    margin-top: 15vh;
+}
